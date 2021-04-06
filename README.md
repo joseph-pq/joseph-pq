@@ -2,7 +2,7 @@
 I am an electrical engineering student with a passion for embedded systems and machine learning.
 
 Here you can see some of current activities:
-- 🔭 I’m currently working on UTEC - CITA
+- 🔭 I’m currently working on Omni Electronica
 - 🌱 I’m currently learning Embedded Machine Learning
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...-->
