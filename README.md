@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am an electrical engineering student with a passion for embedded systems and machine learning.
+I am an electrical engineering student with a passion for embedded systems and computer vision.
 
 Here you can see some of current activities:
 - 🔭 I’m currently working on Omni Electronica
-- 🌱 I’m currently learning Embedded Machine Learning
+- 🌱 I’m currently learning Embedded Computer Vision
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything related to Embedded Systems
