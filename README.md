@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an electrical engineering student with a passion for embedded systems and computer vision.
+I am an electrical engineer with a passion for embedded systems and computer vision.
 
 Here you can see some of current activities:
 - 🔭 I’m currently working on Omni Electronica
