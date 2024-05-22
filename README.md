@@ -4,10 +4,10 @@ I am an electrical engineer with a passion for software development, deep learni
 Here you can see some of my current activities:
 - 🔭 I’m currently working on Heart Institute of the Hospital das Clínicas of FMUSP as a full-time researcher
 - 🌱 I’m currently learning Deep Learning
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ...-->
+- 👯 I’m looking to collaborate on Open Source Deep Learning projects
 - 💬 Ask me about anything related to (Neo)Vim
 - 📫 How to reach me: joseph.pena.q@gmail.com
+<!-- - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
 
