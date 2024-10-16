@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am an electrical engineer with a passion for software development, deep learning, and (Neo)Vim.
+I am a software developer and aspiring researcher, with a strong interest in deep learning and (Neo)Vim.
 
 Here you can see some of my current activities:
-- 🔭 I’m currently working on Heart Institute of the Hospital das Clínicas of FMUSP as a full-time researcher
+- 🔭 I’m currently working on AI methods for sleep staging using photoplethysmography signals
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Open Source Deep Learning projects
 - 💬 Ask me about anything related to (Neo)Vim
