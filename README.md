@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joseph-pq&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-pq&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-pq&langs_count=5&theme=tokyonight&layout=compact&hide=XSLT,Jupyter%20Notebook)]()
